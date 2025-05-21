@@ -1,18 +1,38 @@
-Synopsis: Atilq Hardwares Business Analysis using Power BI
-The Atilq Hardwares Business Analysis Project leverages Power BI to provide comprehensive insights into sales trends, product performance, and customer engagement. The goal of this project is to enhance business strategies and optimize decision-making through data-driven analytics.
-Key Business Insights
-1.	Revenue Growth & Sales Trends
-o	Power BI dashboards reveal sales fluctuations over time, identifying peak seasons and slow periods.
-o	Comparative analysis highlights the best-performing product categories and underperforming ones.
-2.	Customer Purchase Behavior
-o	Segmentation analysis categorizes customers based on purchase frequency, volume, and spending.
-o	Power BI visualizations track customer retention and engagement, assisting in targeted promotions.
-3.	Profitability & Inventory Optimization
-o	Margin analysis identifies high-profit products and areas requiring cost optimization.
-o	Inventory level tracking ensures stock availability while minimizing excess inventory costs.
-Tools Used in the Project
-🔹 Power BI
-•	Created interactive sales dashboards with real-time filtering options.
-•	Used DAX formulas to calculate revenue, profit margins, and customer segmentation metrics.
-•	Applied Power BI charts for clear visualization of business trends.
-This project demonstrates how Power BI transforms raw business data into actionable insights, empowering Atilq Hardwares to make strategic business decisions. 
+# Synopsis
+
+The Business Insights 360 is a powerful dashboard built with Microsoft Power BI, designed to give AtliQ Hardware a complete view of their global operations. It combines data from Excel/CSV files and MySQL databases to deliver actionable insights for the Finance, Sales, Marketing, and Supply Chain teams, helping them make smarter decisions.
+
+
+## Key Highlights
+
+Custom Dashboard: Designed a Power BI dashboard tailored to AtliQ Hardware’s needs, providing detailed insights across all departments.
+
+Data Integration: Combined data from Excel/CSV files and a MySQL database into Power BI for a unified analysis.
+
+Data Modeling & Visuals: Built a strong data model and created interactive, easy-to-understand visuals for key metrics.
+
+Improved Performance: Used DAX Studio to boost dashboard speed, improving report efficiency by 5%.
+
+Smarter Decisions: Enabled AtliQ Hardware to identify trends and make data-driven decisions across teams.
+
+## Screenshots
+
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%201%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%202%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%203%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%204%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%205%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%206%20360.jpg)
+
+## Data Sources
+
+The dashboard pulls data from two main sources:
+
+Excel/CSV Files: Used for Targets, Market Share data, and related information.
+
+MySQL Database: Provides Facts and Dimensions for all departments.
+
+## Contact Details
+
+[LinkedIN](https://www.linkedin.com/in/satyaki-sen-442315106/)
